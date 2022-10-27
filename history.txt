@@ -1,0 +1,19 @@
+ls
+ls ..
+ls 4
+ls -l
+ls -al
+ls . -l
+ls ./include -a cd.c -l .. ls.c main.c
+cd cd.h
+cd include
+ls
+cd ..
+pwd
+gedit &
+pinfo
+pinfo 52210
+discover . "cd.c"
+cd include
+cd
+cd ~
